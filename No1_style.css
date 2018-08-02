@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+}
+fieldset{
+  padding: 20px; width: 300px; margin-top: 20px; margin-left: 20px; border-top-width: 2px;
+}
+#yonsei{
+  padding-left: 50px;
+}
+#korea{
+  padding-left: 125px;
+}
+#yonsei_video{
+  text-align: right;
+}
+#korea_video{
+  text-align: center;
+}
+#shop{
+  text-align: center;
+}
+#contact_message{
+  text-align: center;
+}
